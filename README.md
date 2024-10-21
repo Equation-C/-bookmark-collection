@@ -1,3 +1,4 @@
+- [live](https://live.fanmingming.com/) 直播源 m3u8<-->txt
 - [Zeli - 用中文阅读Hacker News和AI论文](https://zeli.app/zh) 黑客新闻
 - [ZType – Type to Shoot](https://zty.pe/)
 - [osmoscraft/osmosmemo: Turn GitHub into a bookmark manager](https://github.com/osmoscraft/osmosmemo) 书签
