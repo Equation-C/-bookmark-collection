@@ -1,3 +1,4 @@
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) #本地运行语音处理
 - [标星 62.9 万，8 个 yyds 的 GitHub 开源项目 ！](https://zhuanlan.zhihu.com/p/1888285078272066715) #本地运行语音处理
 - [莫比乌斯](https://onojyun.com/) #献忠
 - [今日热榜](https://tophub.today/) #热门-热点-新闻
