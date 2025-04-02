@@ -1,3 +1,4 @@
+- [标星 62.9 万，8 个 yyds 的 GitHub 开源项目 ！](https://zhuanlan.zhihu.com/p/1888285078272066715) #本地运行语音处理
 - [莫比乌斯](https://onojyun.com/) #献忠
 - [今日热榜](https://tophub.today/) #热门-热点-新闻
 - [(99+ 封私信 / 80 条消息) 有哪些大局已定，却又被极限反杀的操作？ - 知乎](https://www.zhihu.com/question/60843717) #局部的是否是真相
