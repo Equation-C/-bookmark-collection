@@ -1,3 +1,4 @@
+- [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) #级速查表-编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) #本地运行语音处理
 - [标星 62.9 万，8 个 yyds 的 GitHub 开源项目 ！](https://zhuanlan.zhihu.com/p/1888285078272066715) #本地运行语音处理
 - [莫比乌斯](https://onojyun.com/) #献忠
