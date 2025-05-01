@@ -1,3 +1,4 @@
+- [骂人骂七寸](https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/)
 - [(99+ 封私信 / 80 条消息) 什么是真正的黑客（hacker）？ - 知乎](https://www.zhihu.com/question/20699121/answer/3461302871) 1988互联网真正的黑客 #黑客#1988#蠕虫#莫里斯
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) #级速查表-编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) #本地运行语音处理
